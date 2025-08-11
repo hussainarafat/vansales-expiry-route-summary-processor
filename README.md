@@ -66,7 +66,7 @@ Notes: Columns by name, not letter. Numerics clean/filled with 0. Strings consis
    - Supports multiple files; each becomes a sheet in output.
 
 2. **Run the Executable**:
-   - Double-click the .exe (or run via command prompt: `sales_summary_processor.exe`).
+   - Double-click the .exe (or run via command prompt: `_Monthly_Retail_Summary.exe`).
    - Console window opens, logging progress (e.g., "Reading file: sales_data.xlsb...").
 
 3. **Review Output**:
